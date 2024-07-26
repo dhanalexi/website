@@ -1,0 +1,66 @@
+{
+  "Header": {
+    "title": "Welcome to my Portfolio Website",
+    "paragraph": "Hello! I'm Dhaniel Reid, a passionate Software Developer with a drive for creating innovative solutions and impactful designs. With a strong foundation in Computer Science, I strive to deliver high-quality work that meets the unique needs of each project."
+  },
+  "About": {
+    "paragraph": "With 7 secondary and 4 tertiary years of experience, I have strengthened my skills in various areas including JSON formatting and HTML mostly among others and am driven by a commitment to excellence and innovation. My journey in my field has been fueled by a deep curiosity and a desire to create solutions that make a difference. ",
+    "Why": [
+      "Increase My Reach For Reference",
+      "Build My Personal Brand"
+ 
+    ],
+    "Why2": [
+      "To Connect with Others",
+      "To Highlight My Expertise"
+
+   
+
+    ]
+  },
+  
+  "Expertise": [
+    {
+      "icon": "fa fa-code",
+      "name": "HTML, CSS, JavaScript",
+      "text": "Building responsive, user-friendly interfaces."
+    },
+    {
+      "icon": "fa fa-desktop",
+      "name": "React",
+      "text": "Creating dynamic, interactive web applications."
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "Node.js",
+      "text": "Developing robust server-side logic and APIs."
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "Python",
+      "text": "Utilizing this languages for data analysis and visualization."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Good Collaborative Approach",
+      "text": "Building strong relationships with team members and stakeholders."
+    },
+    {
+      "icon": "fa fa-exchange",
+      "name": "Adaptability",
+      "text": "Being flexible and open to new ideas and approaches."
+    }
+  ]
+  
+ 
+    
+  
+  
+ 
+}
+ 
+    
+  
+  
+ 
+
